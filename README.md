@@ -19,15 +19,15 @@ Besides, code 'Trainsamples_demo.m' for randomly selecting train and test sample
 
 If you use the code, please kindly cite this paper "Miaomiao Liang, Licheng Jiao, Zhe Meng."A Superpixel-Based Relational Auto-Encoder for Feature Extraction of Hyperspectral Images," Remote Sensing, vol. 11, no. 20, pp. 2454, Oct. 2019."
 
-@article{liang2019superpixel,
-  title={A Superpixel-Based Relational Auto-Encoder for Feature Extraction of Hyperspectral Images},
-  author={Liang, Miaomiao and Jiao, Licheng and Meng, Zhe},
-  journal={Remote Sensing},
-  volume={11},
-  number={20},
-  pages={2454},
-  year={2019},
-  publisher={Multidisciplinary Digital Publishing Institute}
+@article{liang2019superpixel,  
+  title={A Superpixel-Based Relational Auto-Encoder for Feature Extraction of Hyperspectral Images},  
+  author={Liang, Miaomiao and Jiao, Licheng and Meng, Zhe},  
+  journal={Remote Sensing},  
+  volume={11},  
+  number={20},  
+  pages={2454},  
+  year={2019},  
+  publisher={Multidisciplinary Digital Publishing Institute}  
 }
 
 If you have any questions or suggestions, welcome to contact me by email:liangmiaom@gmail.com
